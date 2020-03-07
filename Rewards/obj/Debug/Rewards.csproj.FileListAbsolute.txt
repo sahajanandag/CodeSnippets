@@ -1,0 +1,7 @@
+C:\Users\s0044199\source\repos\Rewards\Rewards\bin\Debug\Rewards.exe.config
+C:\Users\s0044199\source\repos\Rewards\Rewards\bin\Debug\Rewards.exe
+C:\Users\s0044199\source\repos\Rewards\Rewards\bin\Debug\Rewards.pdb
+C:\Users\s0044199\source\repos\Rewards\Rewards\obj\Debug\Rewards.csprojAssemblyReference.cache
+C:\Users\s0044199\source\repos\Rewards\Rewards\obj\Debug\Rewards.csproj.CoreCompileInputs.cache
+C:\Users\s0044199\source\repos\Rewards\Rewards\obj\Debug\Rewards.exe
+C:\Users\s0044199\source\repos\Rewards\Rewards\obj\Debug\Rewards.pdb
